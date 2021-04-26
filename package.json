@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "casbin": "^5.6.1",
-    "casbin-mongoose-adapter": "^3.0.0"
+    "casbin-mongoose-adapter": "3.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.41",

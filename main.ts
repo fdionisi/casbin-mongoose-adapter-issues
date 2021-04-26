@@ -11,7 +11,7 @@ async function main() {
   });
 
   const enforcer = await newEnforcer(
-    path.join(__dirname, '../assets/security_model.conf'),
+    path.join(__dirname, './rbac_model.conf'),
     adapter,
   );
 

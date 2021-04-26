@@ -62,7 +62,7 @@ buffer-from@^1.0.0:
   resolved "https://registry.yarnpkg.com/buffer-from/-/buffer-from-1.1.1.tgz#32713bc028f75c02fdb710d7c7bcec1f2c6070ef"
   integrity sha512-MQcXEUbCKtEo7bhqEs6560Hyd4XaovZlO/k9V3hjVUF/zwW7KBVdSK4gIt/bzwS9MbR5qob+F5jusZsb0YQK2A==
 
-casbin-mongoose-adapter@^3.0.0:
+casbin-mongoose-adapter@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/casbin-mongoose-adapter/-/casbin-mongoose-adapter-3.0.0.tgz#850192a798d7e2ea157a956b02511364fc7332cd"
   integrity sha512-v1hE4MPRGkYr7ZNnZyh8COzPAlhufcMXIoOujmcOZFe4ckRBo3irRc6mIKD6UJUw2FJV6oY0hduCPxM9iPLbpw==
